@@ -1,0 +1,17 @@
+$theme-colors: (
+    "primary": #0074d9,
+    "danger": #ff4136,
+    "info": #6200ea,
+    "success": #33691e,
+    "pink": #f50057,
+    "warning": #ffab00,
+    "dark": #000,
+    'light': #fff
+);
+
+// Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    padding-top: 5rem;
+}

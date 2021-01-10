@@ -1,14 +1,33 @@
 {
-  "name": "redux-contact-book",
-  "version": "0.1.0",
+  "name": "xcelhire-task",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "availity-reactstrap-validation": "^2.7.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.2",
+    "mui-datatables": "^3.7.4",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
+    "react-avatar": "^3.9.7",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-loader-spinner": "^3.1.14",
+    "react-notification-system-redux": "^2.0.1",
+    "react-notifications-component": "^2.4.0",
+    "react-query": "^3.5.11",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "reactstrap": "^8.8.1",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "shortid": "^2.2.15",
+    "toastr": "^2.1.4",
+    "use-state-with-callback": "^1.0.18"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +49,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }
